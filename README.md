@@ -20,3 +20,9 @@ You can use record.py file located in pick_and_place/scripts/ for recording curr
 ![Alt Text](https://github.com/btknzn/TiagoRobotSkillLearning/blob/main/record.png)
 
 
+Due to less computational power of my hardware( NVidia GTX 1650), learning part could not completed based on above mentioned methods - or could not collected big dataset. Instead of one easy learning task is recorded based on this tool: http://wiki.ros.org/Robots/TIAGo/Tutorials/MoveIt/Pick_place
+(main problem is related above method, gtx1650 does not have sufficient memory to have very big models to learn complex motions and it works slowly for my pc) 
+
+Colected dataset located here: https://drive.google.com/drive/folders/1OW1NMhZRi9S7oYW4D1I_T8BLPN0KyScm?usp=sharing for tiago implemented motion here.
+
+
