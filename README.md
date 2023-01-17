@@ -44,3 +44,7 @@ play: this node is for using the model trained. Place your models there and use 
 
 Hiearcial order of predictive learning was like that train encoder-decoder for RBG Images and Disparity
 Afterwards train encoder lstm mlp for grasping.
+  
+autoencoderBLACKDARK.ipynb : use this code for training encoder-decoder for disparity.
+
+9.Pytorch Convolution AutoEncoder.ipynb : RGB image encoder-decoder part
