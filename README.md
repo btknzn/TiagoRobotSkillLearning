@@ -53,4 +53,4 @@ use this training encoder-lstm-mlp :encoderlstmdecoder.ipynb
 
 offline RL invsetigation( offline Q learning): offlineQLEARNING.ipynb
 
-
+encoder-transofmers investigation: https://github.com/btknzn/TiagoRobotSkillLearning/blob/main/encodertransformers_pynb.ipynb 
