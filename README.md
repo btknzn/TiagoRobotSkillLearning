@@ -7,3 +7,7 @@ placing object for Tiago Robots.
 
 ![Alt Text](https://github.com/btknzn/TiagoRobotSkillLearning/blob/main/tiagoactionGUI.png)
 
+Example Video : https://youtu.be/nKSOe_63HZI
+Another Example demo: https://www.youtube.com/watch?v=zSLZpDB0UUA
+
+
