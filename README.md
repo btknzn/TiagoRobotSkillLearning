@@ -26,3 +26,5 @@ Due to less computational power of my hardware( NVidia GTX 1650), learning part 
 Colected dataset located here: https://drive.google.com/drive/folders/1OW1NMhZRi9S7oYW4D1I_T8BLPN0KyScm?usp=sharing for tiago implemented motion here.
 
 
+
+The Neural Network(for Imitation learning) trained has the below structure.
