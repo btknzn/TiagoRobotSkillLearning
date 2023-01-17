@@ -39,3 +39,5 @@ Imitation learning based object touching example videos:
 For different object location:
 
 2. https://youtu.be/HcIxalXrmVY
+
+play: this node is for using the model trained. Place your models there and use play.py code for tiago.(change normalization parameters in play.py)
