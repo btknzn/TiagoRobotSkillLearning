@@ -41,3 +41,6 @@ For different object location:
 2. https://youtu.be/HcIxalXrmVY
 
 play: this node is for using the model trained. Place your models there and use play.py code for tiago.(change normalization parameters in play.py)
+
+Hiearcial order of predictive learning was like that train encoder-decoder for RBG Images and Disparity
+Afterwards train encoder lstm mlp for grasping.
