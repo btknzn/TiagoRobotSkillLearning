@@ -31,3 +31,9 @@ The Neural Network(for Imitation learning) trained has the below structure.
 
 
 ![Alt Text](https://github.com/btknzn/TiagoRobotSkillLearning/blob/main/PredictiveLearningArct.png)
+
+Imitation learning based object touching example videos:
+1. https://youtu.be/gRxLfBI0K94
+
+For different object location
+2. https://youtu.be/HcIxalXrmVY
