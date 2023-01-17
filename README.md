@@ -28,3 +28,6 @@ Colected dataset located here: https://drive.google.com/drive/folders/1OW1NMhZRi
 
 
 The Neural Network(for Imitation learning) trained has the below structure.
+
+
+![Alt Text](https://github.com/btknzn/TiagoRobotSkillLearning/blob/main/PredictiveLearningArct.png)
