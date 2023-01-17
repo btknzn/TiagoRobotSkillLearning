@@ -49,3 +49,5 @@ autoencoderBLACKDARK.ipynb : use this code for training encoder-decoder for disp
 
 9.Pytorch Convolution AutoEncoder.ipynb : RGB image encoder-decoder part
 encoderlstmdecoder.ipynb: use this training encoder-lstm-mlp 
+
+10. Possible offline RL invsetigation( offline Q learning): offlineQLEARNING.ipynb
